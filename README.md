@@ -1,4 +1,4 @@
-# Olá, eu sou Pedro! 👋
+# Olá, eu sou o Pedro! 👋
 
 Sou estudante no **Colégio Técnico de Limeira (COTIL)** da **Unicamp**, atualmente no **último período do 4º ano**. Tenho 19 anos e sou apaixonado por tecnologia, especialmente no desenvolvimento de soluções web, mobile e desktop.
 
